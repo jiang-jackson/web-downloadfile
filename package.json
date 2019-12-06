@@ -6,7 +6,9 @@
     "file",
     "base64",
     "blob",
-    "link"
+    "link",
+    "web",
+    "download"
   ],
   "homepage": "https://github.com/jiang-jackson/web-downloadfile",
   "main": "dist/web-downloadfile.js",
